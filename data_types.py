@@ -56,6 +56,6 @@ print(type(x))
 #6 dict
 x = {"name" : "John", "age" : 36}
 print(type(x))
-#7 bool .
+#7 bool
 x = True
 print(type(x))
